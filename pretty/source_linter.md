@@ -48,7 +48,7 @@ __good__
 1. Toute parenthèse qui peut etre optionel ce doit d'etre supprimer.
 1. les variable on un sens explicite (pas d'abréviation, pas de nom de moins de 3 lettre)
 
-ne faisons que peut de coffee mais si ça change on utilisera ça
+Nouse ne faisons que peut de coffee mais si ça change on utilisera ça
 http://www.coffeelint.org/
 
 
@@ -56,7 +56,7 @@ http://www.coffeelint.org/
 
 ## Vim/Tmux
 
-avec un nombre concéquent de plugin
+avec un nombre concéquent de plugins
 vous devez etre capable de faire du paire programming
 avec chacun des membre de la team.
 
