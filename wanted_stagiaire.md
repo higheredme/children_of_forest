@@ -21,9 +21,9 @@ Rejoins nous et deviens Jungler, un développeur qui gére le stress des autres 
 
 ## Si tu étudies à Telecom Saint-Etienne, tu es encore plus chanceux !
 
-HigherEdMe est à moins de 100 mètres de ton école ! C'est comme si tu le stage venait à toi ! 
+HigherEdMe est à moins de 100 mètres de ton école ! C'est comme si le stage venait à toi ! 
 
-![alt tag]
+![alt tag](https://github.com/higheredme/children_of_forest/blob/develop/images/map.png)
 
 ## Et on a un fat boy et un tapis de danse...
 
