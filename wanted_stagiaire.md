@@ -19,6 +19,12 @@ Les Ergodox ! Un clavier mécanique érgonomique personnalisable. On peut même 
 
 Rejoins nous et deviens Jungler, un développeur qui gére le stress des autres et s'occupe de l'organisation des plannings ainsi que des réunions. En plus tu auras le droit à ton propre Nerf Gun...
 
+## Si tu étudies à Telecom Saint-Etienne, tu es encore plus chanceux !
+
+HigherEdMe est à moins de 100 mètres de ton école ! C'est comme si tu le stage venait à toi ! 
+
+![alt tag]
+
 ## Et on a un fat boy et un tapis de danse...
 
 ![alt tag](https://github.com/higheredme/children_of_forest/blob/develop/images/fat_boy.png)
