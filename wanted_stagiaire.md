@@ -4,7 +4,7 @@
 
 ![alt tag](https://github.com/higheredme/children_of_forest/blob/develop/images/link_ruby.png)
 
-Nous sommes particulièrement friand du terminal et nous l'utilisons à toutes les sauces. Si tu n'as pas peur de coder en n'utilisant que le clavier et que Linux n'a pas de secret pour toi, tu trouveras ta place parmis nous.
+Nous sommes particulièrement friands du terminal et nous l'utilisons à toutes les sauces. Si tu n'as pas peur de coder en n'utilisant que le clavier et que Linux n'a pas de secret pour toi, tu trouveras ta place parmi nous.
 
 ## Si toi aussi tu aimes découvrir de nouvelles méthodes de travail
 
