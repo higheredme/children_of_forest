@@ -88,6 +88,33 @@ Respecter les linters et préconisation de HEM ci-dessous.
    [balises inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
    telles que: b, q, em, small, strong et autre
 
+## Style guide sass
+
+1. Les valeurs doivent etre verticalement aligné, et les ```:``` acollé au nom de la propriété.
+1. Utilisé au maximum les mixins et les variable.
+1. Des fichiers de variable pour les palletes de couleurs, et les marges récurente sont préférable.
+1. Pas de fichier de plus de 100 lignes.
+
+  ```sass
+    / GOOD
+    body
+      .trololo
+        color:        #AAA
+        margin-left:  20px
+        
+    / BAD
+    body
+      .trololo
+        color         :  #AAA
+        margin-left   :  20px
+        
+    / BAD
+    body
+      .trololo
+        color:  #AAA
+        margin-left:  20px
+  ```
+
 
 # Intégration à même notre app
 
