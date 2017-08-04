@@ -83,10 +83,28 @@ Respecter les linters et préconisation de HEM ci-dessous.
     .text_with_emphazie
       = t "translation.path.for.text_html"
    ```
-   
+      
    à ces fins, nous autorisons et encourageons l'usage de la totalité des 
    [balises inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
    telles que: b, q, em, small, strong et autre
+
+### Valeur multiple
+
+pour facilité la maintenance il est aussi recommander de mettre un type d'information par ligne
+
+```slim
+  / BAD
+  h1 text 1 #{ruby} text 2 #{t("key.key")}
+  
+  /GOOD
+  h1
+    span> text 1
+    = ruby
+    span<> text 2
+    = t "key.key"
+
+```
+
 
 ## Style guide sass
 
